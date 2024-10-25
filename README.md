@@ -1,5 +1,5 @@
 [lab 1: https://github.com/2303A51191/2303A51191/blob/main/Lab01.ipynb ]                          
-[lab 2: https://github.com/2303A51191/2303A51191/blob/main/LAB02.ipynb]
+[lab 2: https://github.com/2303A51191/2303A51191/blob/main/LAB02.ipynb]                            
 [lab 3; https://github.com/2303A51191/2303A51191/blob/main/lab_2_AIML.ipynb]             
 [lab 4: https://github.com/2303A51191/2303A51191/blob/main/Lab_4.ipynb]           
 [lab 5: https://github.com/2303A51191/2303A51191/blob/main/lab05.ipynb]                                   
